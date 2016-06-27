@@ -31,12 +31,12 @@ Naturally, `/opt/vim_runtime` can be any directory, as long as all the users spe
 
 ## Fonts
 
-I recommend using [IBM Plex Mono font](https://github.com/IBM/plex) (it's an open-source and awesome font that can make your code beautiful). The Awesome vimrc is already setup to try to use it.
+Might require this in your .zshrc or .bashrc
+```
+export TERM=xterm-256color
+```
 
-Some other fonts that Awesome will try to use:
-
-* [Hack](http://sourcefoundry.org/hack/)
-* [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/)
+I also recommend using [Source Code Pro font from Adobe](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960) (it's free and awesome font for writing and programming). The Awesome vimrc is already setup to try to use it
 
 ## How to install the Basic version?
 
